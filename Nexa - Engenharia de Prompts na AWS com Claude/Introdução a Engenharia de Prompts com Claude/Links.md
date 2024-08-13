@@ -1,0 +1,2 @@
+Introdução ao Bootcamp Nexa Engenharia de Prompts](https://web.dio.me/course/introducao-ao-bootcamp-nexa-engenharia-de-prompts-com-claude-3/learning/f613f7bb-8452-4a14-be1b-bf42b7e858cc?back=/track/engenharia-prompts-aws&tab=path&moduleId=undefined)
+[Youtube](https://www.youtube.com/watch?v=uWKPRC7HJi8)
